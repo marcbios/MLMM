@@ -1,7 +1,7 @@
 #MLMM for analysing Data
 #This script was made using the MLMM package by Segura et al. 2012 who owns the copyright
 #I only wrote this code to assist people who need to run MLMM on diversity panel without having to got hrough the trouble of adjusting the original code by themselves
-#All gratitude to Dr. Segura et al for their immense contribution to GWAS analysis
+#All gratitude to Segura et al for their immense contribution to GWAS analysis
  
 source("https://raw.githubusercontent.com/Gregor-Mendel-Institute/MultLocMixMod/master/R/mlmm.r")
 source("https://raw.githubusercontent.com/Gregor-Mendel-Institute/MultLocMixMod/master/R/mlmm_cof.r")
